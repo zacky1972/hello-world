@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 
-I am Susumu Yamazaki.
+I am SY.
